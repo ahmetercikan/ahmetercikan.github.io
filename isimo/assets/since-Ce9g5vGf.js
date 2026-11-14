@@ -1,0 +1,1 @@
+function t(e){if(!e)return"bir süre önce";const n=Math.floor((Date.now()-e)/6e4);if(n<1)return"az önce";if(n<60)return`${n} dakika önce`;const r=Math.floor(n/60);return r<24?`${r} saat önce`:`${Math.floor(r/24)} gün önce`}export{t as s};

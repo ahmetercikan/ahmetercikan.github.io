@@ -1,0 +1,18 @@
+# İsim Şehir Online Kelime Oyunu
+
+> Türkçe, ücretsiz, çok oyunculu kelime ve bilgi oyunu (Android, iPhone ve web). Bir arada: klasik İsim Şehir Hayvan Bitki Eşya (STOP), Sıra Sende kelime zinciri, Sinema Bilmecesi film bilgi yarışması, Replik Kimin? ve Günün Filmi. Geliştirici: KingSmile Studios.
+
+- **İsim Şehir:** Harf belli olur; isim, şehir, hayvan, bitki, eşya, ülke gibi 14 kategoriyi (ve kendi kategorini) doldur. Bütün kutuları geçerli cevapla dolduran STOP der. Cevaplar parmakla yazılır, Türkçe el yazısı cihazda tanınır. Puanlama klasik kurallarla otomatik (tek cevap 10, ortak 5, tek geçerli cevap 20).
+- **Sıra Sende:** Masadaki kelimede tek harf değiştirip yeni Türkçe kelime yap (KEDİ → KADI → KADIN). 14.000 kelimelik havuz, 3-5 harf, can sistemi.
+- **Sinema Bilmecesi:** Sahneyi Hatırla film bilgi yarışması (19 film evreni, 2.800'den fazla soru, kolaydan zora: Harry Potter, Yüzüklerin Efendisi, Yıldız Savaşları, Hababam Sınıfı, G.O.R.A. ve diğerleri; tek başına ya da 10 kişilik odada) ve Film Tahmini (ipuçlarından 230 yerli ve yabancı filmi bil).
+- **Replik Kimin?:** 144 ünlü film repliği (Yeşilçam'dan Hollywood'a); repliğin hangi filmden olduğunu ya da kimin söylediğini bil.
+- **Günün Filmi ve Haftalık Lig:** Herkese aynı film, günde bir hak; lig puanı, günlük seri, haftanın ilk üçüne kupa rozeti.
+- **Nasıl oynanır:** Oda kur, 5 haneli kodu paylaş, arkadaşlar kendi telefonlarından katılsın (en fazla 10 kişi). Arkadaş listesi ve davet var. İnternet yoksa botlara karşı oynanır.
+- **Gizlilik:** Üyelik, e-posta ya da telefon numarası istemez; yalnız takma ad ve avatar.
+
+## Bağlantılar
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.ahmetercikan.isimsehir)
+- [App Store](https://apps.apple.com/tr/app/id6830780251)
+- [Web'de oyna](https://ahmetercikan.github.io/isimo/)
+- [Gizlilik politikası](https://ahmetercikan.github.io/isimo/gizlilik.html)

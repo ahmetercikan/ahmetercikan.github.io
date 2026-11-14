@@ -1,0 +1,19 @@
+# Rampix: Marble Run Puzzle
+
+> Rampix is a free real-time marble puzzle for iPhone and iPad: slide planks, flip bridges and open gates to guide the rolling ball past spikes into the cup across 200 levels.
+
+- The marble never stops: solve the puzzle in real time
+- Sliding planks, flipping bridges and gates
+- 10 worlds, 200 levels, 3 gems per level
+- Upgrades: Magnet, Gem Hunter, Slow Time, Shield
+- 9 marbles to unlock, plays offline, English and Turkish
+
+## Pages
+- [Support](https://ahmetercikan.github.io/rampix/)
+- [Privacy Policy](https://ahmetercikan.github.io/rampix/gizlilik.html)
+
+## FAQ
+- **Is Rampix free?** Yes. Rampix is free to play with ads between levels. A one-time "Remove Ads" purchase removes them forever.
+- **How do you play Rampix?** The marble starts rolling when the level begins. Drag planks along their rails to close gaps and tap gates or bridges to flip them, guiding the marble into the golden cup. Collect 3 gems for 3 stars.
+- **Does Rampix work offline?** Yes. All 200 levels play without an internet connection; only ads need a connection.
+- **Which devices does Rampix support?** iPhone and iPad. The game is played in portrait.

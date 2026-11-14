@@ -1,0 +1,19 @@
+# Kometix: Castle Smash
+
+> Kometix is a free physics siege game for iPhone and iPad: pull back, aim and launch a meteor through x10 multiplier gates to smash castles across 10 worlds and 200 levels.
+
+- Real arc physics with angle and power
+- Multiplier gates: x10, x20, +100 (red gates shrink your swarm)
+- 10 worlds, 200 levels: wind, rolling forts, giant peaks, towers
+- 6 upgrades: Meteor Power, Long Aim, Crystal Hunter, Wind Breaker, Multi Shot, Spare Shot
+- Plays offline, English and Turkish
+
+## Pages
+- [Support](https://ahmetercikan.github.io/kometix/)
+- [Privacy Policy](https://ahmetercikan.github.io/kometix/gizlilik.html)
+
+## FAQ
+- **Is Kometix free?** Yes. Kometix is free to play with ads between levels. A one-time "Remove Ads" purchase removes them forever.
+- **How do you play Kometix?** Drag back on the catapult to set angle and power, then release. Fly the meteor through blue and green gates to multiply it and destroy every heart crystal in the castle. Each level gives you 3 shots.
+- **Does Kometix work offline?** Yes. All 200 levels play without an internet connection; only ads need a connection.
+- **Which devices does Kometix support?** iPhone and iPad. The game is played in portrait.
