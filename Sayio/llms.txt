@@ -1,0 +1,11 @@
+# Sayio: Matematiğin Kolay Yolu
+
+> 4-14 yaş çocuklar için Türkçe matematik uygulaması. Dört işlemin kolay yollarını (40 püf noktası: soldan toplama, yuvarla-düzelt, parçala-çarp, 9'un sihri, bölünebilme) bir öğretmen gibi deftere çizerek anlatır. Çarpım tablosu 10 aileye ayrılarak ezbersiz öğretilir, aralıklı tekrarla pekiştirilir; çubuk modeliyle problem çözme (Anla, Planla, Uygula, Kontrol) ve üç matematik oyunu. Gerçek insan sesiyle Türkçe anlatım, internetsiz çalışır. Yaş grupları: Minik 4-5, Kaşif 6-7, Usta 8-10, Dahi 11-14.
+
+Geliştirici: KingSmile Studios. Dil: Türkçe. Yaş: 4-14.
+
+## Bağlantılar
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.ahmetercikan.sayio)
+- [Web'de aç](https://ahmetercikan.github.io/Sayio/)
+- [Gizlilik politikası](https://ahmetercikan.github.io/Sayio/gizlilik.html)
