@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ahmetercikan.isimsehir",
+      "sha256_cert_fingerprints": [
+        "53:C0:7D:A3:B2:C2:DB:A9:72:68:5A:3E:52:40:D8:02:03:73:4B:4C:B2:24:67:AE:1D:1C:06:21:F9:77:81:6A",
+        "2E:93:71:35:A5:9F:84:47:E2:9A:91:6B:06:B3:52:40:D0:B1:1F:A4:BD:CD:10:61:3B:97:4A:A5:BA:A3:6A:E1"
+      ]
+    }
+  }
+]

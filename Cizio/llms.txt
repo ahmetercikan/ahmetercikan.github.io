@@ -1,0 +1,11 @@
+# Çizio: Adım Adım Çizim Öğren
+
+> 5-9 yaş çocuklar için Türkçe, sesli anlatımlı ve reklamsız eğitim uygulaması. Çizim Atölyesi'nde gerçekçi bir kalem 98 dersi adım adım çizer, çocuk kâğıda ya da ekrana aynısını çizer; boyama kitabı ve farklı fırçalar. Giydirme Stüdyosu, English Club (oynayarak İngilizce, 16 konu, ~150 kelime) ve 3B Çizio Adası (lunapark, şehir, dostlar, binekler). Temel içerik ücretsiz; Çizio Premium aboneliği tüm içeriği açar, satın alma ebeveyn kapısının arkasındadır.
+
+Geliştirici: KingSmile Studios. Dil: Türkçe. Yaş: 5-9.
+
+## Bağlantılar
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.ahmetercikan.cizio)
+- [Web'de aç](https://ahmetercikan.github.io/Cizio/)
+- [Gizlilik politikası](https://ahmetercikan.github.io/Cizio/gizlilik.html)

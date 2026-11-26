@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "K5AVKBUJ8R.com.ahmetercikan.isimsehirapp",
+        "appIDs": ["K5AVKBUJ8R.com.ahmetercikan.isimsehirapp"],
+        "paths": ["/isimo/oda", "/isimo/oda/*"],
+        "components": [{ "/": "/isimo/oda" }, { "/": "/isimo/oda/*" }]
+      }
+    ]
+  }
+}
